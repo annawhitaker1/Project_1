@@ -1,2 +1,1 @@
-
-fred_key = "5e99e459e65879aa5e79d6198946d3e6"
+weather_api_key = "fd51c2ee7d3bba227eb14c71feb5769b"
