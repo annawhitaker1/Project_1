@@ -7,6 +7,9 @@ Data Sources
   Uber Trip Data: https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city
   Weather Data: https://www.visualcrossing.com/
 
+Acknowledgments
+  We used ChatGPT for assistance in developing the initial code structure for the visuals used in this project. 
+  
 Key Questions and Analysis 
   How did the number of Uber Drivers and associated trips evolve over the course of this data set? (Anna)
     - We created a scattered plot with a regression line and a bar chart to compare the trends in active vehicles and daily trip    volume. We found that the number of active Uber drivers increased over time, with trip volumes growing at an even faster rate. 
